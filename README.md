@@ -1,2 +1,5 @@
-# openmrs-implementors-guide
-The definitive guide to OpenMRS implementations covering design, customization, development, rollout and field maintainance as well as evolution 
+# A Field Guide to OpenMRS Implementation
+
+A guide to planning and implementing OpenMRS based solutions in the field, covering all aspects from requirements gathering, customization, deployment, field rollout, maintainance and evolution.
+
+**Stephen Senkomago Musoke**

@@ -1,0 +1,10 @@
+{
+  "title": "A Field Guide to OpenMRS Implementation",
+  "description": "A guide to planning and implementing OpenMRS based solutions in the field",
+  "author": "Stephen Senkomago Musoke",
+  "gitbook": ">= 3.0.0",
+  "structure": {
+    "summary": "SUMMARY.md",
+    "readme":"README.md"
+  }
+}
